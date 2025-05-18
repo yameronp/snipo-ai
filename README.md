@@ -1,4 +1,5 @@
-🚀 Snipo AI
+🚀 Snipo AI :
+
 Snipo AI is a powerful AI-driven tool that instantly analyzes any competitor or startup by scraping and interpreting their landing page. In just seconds, it delivers a clear, actionable blueprint detailing:
 
 The core business problem
